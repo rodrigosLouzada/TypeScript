@@ -1,1 +1,11 @@
 "use strict";
+let n = "dinho";
+n = "gordinho";
+let v = 34;
+v = 50;
+let l;
+let best;
+let cursos = ["js", 1];
+let linguas;
+linguas = [4, "34"];
+let obj;
